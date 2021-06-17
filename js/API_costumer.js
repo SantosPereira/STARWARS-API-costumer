@@ -19,7 +19,6 @@ function pegaPer () {
             <p>Ano de nascimento: `+data.birth_year+`</p>
             <p>Gênero: `+data.gender+`</p>
         `;
-
     }
     request.onload = fdex
     request.onerror = function () {
